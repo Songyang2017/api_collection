@@ -9,5 +9,5 @@
 微博评论接口: https://m.weibo.cn/api/comments/show?id='+微博id+'&page='+页数  
 例如：https://m.weibo.cn/api/comments/show?id=4221789343235387&page=3  可用来作上拉刷新练习
 #### QQ
-qq头像: http://r.pengyou.com/fcg-bin/cgi_get_portrait.fcg?uins=QQ号&get_nick=1&_=1441677004202  
+qq头像: http://q.qlogo.cn/headimg_dl?dst_uin=QQ号&spec=640&img_type=jpg  
 qq昵称: http://r.pengyou.com/fcg-bin/cgi_get_portrait.fcg?uins=QQ号&get_nick=1&_=1441677004202
