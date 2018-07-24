@@ -13,5 +13,5 @@ qq头像: http://q.qlogo.cn/headimg_dl?dst_uin=QQ号&spec=640&img_type=jpg
 qq昵称: http://r.pengyou.com/fcg-bin/cgi_get_portrait.fcg?uins=QQ号&get_nick=1&_=1441677004202
 
 #### 上海交通卡余额查询
-查询接口： http://shanghaicity.openservice.kankanews.com/public/traffic/Jtkapi?cardno=卡号
+查询接口： http://shanghaicity.openservice.kankanews.com/public/traffic/Jtkapi?cardno=卡号  
 来源： http://shanghaicity.openservice.kankanews.com/public/traffic/jtkye
