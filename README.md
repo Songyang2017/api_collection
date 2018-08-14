@@ -17,5 +17,5 @@ qq昵称: http://r.pengyou.com/fcg-bin/cgi_get_portrait.fcg?uins=QQ号&get_nick=
 来源： http://shanghaicity.openservice.kankanews.com/public/traffic/jtkye
 
 
-### 影像  
-淘宝七夕影像： https://market.m.taopiaopiao.com/markets/TaoBaoMovie/qixiyingqian?hsb=yes&s=ap&spm=dianying.ap.10.1&__webview_options__=bizScenario%3DALIPAY_HOME_ROTATION.2710.25873.1028951107671425024 
+### 影签  
+淘宝七夕影签： https://market.m.taopiaopiao.com/markets/TaoBaoMovie/qixiyingqian?hsb=yes&s=ap&spm=dianying.ap.10.1&__webview_options__=bizScenario%3DALIPAY_HOME_ROTATION.2710.25873.1028951107671425024 
