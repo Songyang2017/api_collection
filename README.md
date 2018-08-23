@@ -20,8 +20,8 @@ qq昵称: http://r.pengyou.com/fcg-bin/cgi_get_portrait.fcg?uins=QQ号&get_nick=
 ### 影签  
 淘宝七夕影签： https://market.m.taopiaopiao.com/markets/TaoBaoMovie/qixiyingqian?hsb=yes&s=ap&spm=dianying.ap.10.1&__webview_options__=bizScenario%3DALIPAY_HOME_ROTATION.2710.25873.1028951107671425024 
 网易云音乐2017年度音乐榜单： https://music.163.com/nact/report2017  
-滴滴2018七夕： https://page.xiaojukeji.com/package/lichengti08151/index.html
-
+滴滴2018七夕： https://page.xiaojukeji.com/package/lichengti08151/index.html  
+网易云人格测试： https://st.music.163.com/c/rongge/
 
 ### 百度  
 天气： http://api.map.baidu.com/telematics/v3/weather?location=上海&output=json&ak=ITI36hwGlm8GkwvqIGHmSHHZO4AqBG0f
